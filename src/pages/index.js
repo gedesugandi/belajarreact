@@ -12,6 +12,7 @@ export default function Home() {
 
       <div className='py-10'>
         <h1 className="text-2xl font-semibold mb-4">Selamat datang di Tools BedahDigital.com</h1>
+        <p>Halo</p>
         <ul className="space-y-2">
           <li>
             <Link href="/cloaking-checker" className="text-blue-600 hover:underline">
